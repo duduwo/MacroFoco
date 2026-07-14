@@ -2,6 +2,12 @@
 
 App mobile de acompanhamento nutricional feito em React Native — registro de refeições, metas de macros, água, receitas e alimentação programada por período do dia.
 
+<p align="center">
+  <img src="docs/screenshots/diario.png" width="30%" alt="Tela do Diário, com anel de progresso, macros e mascote" />
+  <img src="docs/screenshots/alimentos.png" width="30%" alt="Tela de Alimentos, com seletor de período e catálogo" />
+  <img src="docs/screenshots/perfil.png" width="30%" alt="Tela de Perfil, com metas e macros diários" />
+</p>
+
 ## Sobre o projeto
 
 O MacroFoco ajuda a registrar o que você come ao longo do dia e acompanhar o quanto falta pra bater a meta diária de calorias e macronutrientes (proteína, carboidrato e gordura). Além do diário, o app tem um planejador de refeições por período (manhã/almoço/tarde/noite), receitas com cálculo automático de macros por ingrediente, e lembretes diários personalizados de acordo com o mascote escolhido.
